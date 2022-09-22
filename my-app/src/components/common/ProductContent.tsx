@@ -1,4 +1,4 @@
-import { SingleCard,ProductImage,ImageWrapper,ProductName } from "./styles";
+import { SingleCard,ProductImage,ImageWrapper,ProductName } from './styles';
 function ProductContent({id,name,brand,price,featured,ratings,image}:any){
     return(
         <SingleCard>

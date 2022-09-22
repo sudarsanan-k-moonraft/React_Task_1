@@ -1,6 +1,6 @@
-import { FeaturedContainer } from "./styles";
-import ProductDetails from "./productDetails";
-import ProductContent from "./ProductContent";
+import { FeaturedContainer } from './styles';
+import ProductDetails from './products';
+import ProductContent from './ProductContent';
 var flag;
 const FeaturedProducts:React.FC=()=>{
     return(

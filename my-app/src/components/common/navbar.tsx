@@ -1,5 +1,5 @@
 import {img} from '../../resources/images.js';
-import {content} from '../../data/string.js';
+import {content} from '../../resources/string.js';
 import { NavbarContent,Navbar,LogoImage} from './styles';
 LogoImage.defaultProps={
     src:img.logo,

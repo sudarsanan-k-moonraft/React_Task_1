@@ -1,7 +1,7 @@
-import { img } from "../../resources/images.js";
-import { content } from "../../data/string.js";
+import { img } from '../../resources/images.js';
+import { content } from '../../resources/string.js';
 let c=100;
- const ProductDetails: {
+ const products: {
   productId: number;
   productName:String,
   brand:String,
@@ -133,5 +133,5 @@ let c=100;
     ratings: content.three,
   }
 ];
- export default ProductDetails;
+ export default products;
 
