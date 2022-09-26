@@ -1,6 +1,3 @@
-
-//importing all the images from assets
-
 import logo from "../assets/images/logo.png";
 import iwatch from "../assets/images/iwatch.jpg";
 import appleAirpods from "../assets/images/apple_airpods.jpg";
@@ -15,11 +12,8 @@ import miTv from "../assets/images/MI_tv.jpg";
 import onePlus from "../assets/images/one_plus.jpg";
 import samsungTv from "../assets/images/samsung_tv.png";
 import sonyTv from "../assets/images/sony_tv.jpg";
-import vivoPhone from "../assets/images/vivo.jpg";
-import jbl from "../assets/images/jbl.jpg";
-
-//Combining all the images inside an object
-
+import vivoPhone from '../assets/images/vivo.jpg';
+import jbl from '../assets/images/jbl.jpg';
 export const img = {
   logo,
   iwatch,
@@ -36,5 +30,5 @@ export const img = {
   samsungTv,
   sonyTv,
   vivoPhone,
-  jbl,
+  jbl
 };

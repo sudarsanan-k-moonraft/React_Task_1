@@ -1,6 +1,3 @@
-
-//Giving all the content into a separate const variable
-
 const heading = 'Welcome to Flipkart!';
 const brand = 'Flipkart';
 const loginMsg = 'Log In';
@@ -48,9 +45,6 @@ const sixtyK=60000;
 const twoK=20000;
 const oneK=1000;
 const featuredMsg="No Featured Products Found";
-
-//combining all the strings inside an obj
-
 export const content = {
   heading,
   brand,
